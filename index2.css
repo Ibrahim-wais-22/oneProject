@@ -1,0 +1,8 @@
+img.d{width:200px;
+	height:300px;	
+	transition: width 1s, height 3s;
+}
+img.s1{width:1017px;
+	height:300px;	
+	transition: width 3s, height 1s;
+}
